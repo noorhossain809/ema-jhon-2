@@ -1,0 +1,31 @@
+.nav-items{
+    background-color: #1a202c;
+    
+}
+
+.icons{
+    /* font-size: 1.8rem; */
+}
+
+    .branding{
+        width: 100%;
+        max-width: 120px;
+        margin: 10px;
+    }
+    .list-icons{
+        
+        font-size: 16px;
+        width: 35px;
+        height: 35px;
+        margin: 0;
+        padding: 3px;
+        text-align: center;
+        box-shadow: 1px 1px 1px 4px #ddd;
+        border-radius: 50%;
+        
+    }
+    .input{
+        width: 200px;
+    }
+    
+

@@ -1,0 +1,11 @@
+.img{
+    width: 180px;
+    
+}
+.description{
+    color: blue;
+    font-weight: 500;
+}
+.product-details{
+    border-bottom: 1px solid gray;
+}
